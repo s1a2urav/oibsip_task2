@@ -1,0 +1,43 @@
+.container-div {
+    background-color: #EEE;
+  }
+  
+  h1 {
+    font-family: 'Merriweather', serif;
+    margin-top: 20px;
+    padding-top: 15px;
+  }
+  
+  .desc {
+    font-family: 'Merriweather', serif;
+    color: #444;
+  }
+  
+  .pic {
+    width: 80%;
+    margin: 1%;
+  }
+  
+  p {
+    text-align: justify;
+    padding: 2%;
+  }
+  
+  p, li {
+    font-family: 'Slabo 27px', serif;
+    font-size: 1.3em;
+  }
+  
+  .quote {
+    font-weight: 900;
+    font-family: 'Merriweather', serif;
+    text-align: justify;
+  }
+  
+  .lastLine {
+    font-size: 1.5em;
+  }
+  .img{
+    height: 500px;
+    width: 700px;
+  }
